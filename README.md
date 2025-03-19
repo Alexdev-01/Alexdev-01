@@ -26,7 +26,11 @@
 
  ## My Projects
 
- [Mi Repositorio de prueba](https://github.com/Alexdev-01/MiPrimerRepositorio) Este es mi primer repositirio
+ [juego RPG](https://github.com/Alexdev-01/Calculadora)
+ [Calculadora](https://github.com/Alexdev-01/Calculadora)
+ [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD)
+ [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda)
+
  <p></p><br>
 
 
