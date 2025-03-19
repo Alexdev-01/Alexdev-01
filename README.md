@@ -26,7 +26,7 @@
 
  ## My Projects
 
- - [juego RPG](https://github.com/Alexdev-01/Calculadora) Es un juego RPG que se enfrentan dos ejercito por turnos, con interfaz gráfica.
+ - [juego RPG](https://github.com/Alexdev-01/Juego_RPG) Es un juego RPG que se enfrentan dos ejercito por turnos, con interfaz gráfica.
  
  - [Calculadora](https://github.com/Alexdev-01/Calculadora). Es una calculadora con interfaz gráfica.
  
