@@ -26,22 +26,14 @@
 
  ## My Projects
 
- - [juego RPG](https://github.com/Alexdev-01/Calculadora)
+ - [juego RPG](https://github.com/Alexdev-01/Calculadora) Es un juego RPG con interfaz gráfica.
  
- - [Calculadora](https://github.com/Alexdev-01/Calculadora)
+ - [Calculadora](https://github.com/Alexdev-01/Calculadora). Es una calculadora con interfaz gráfica.
  
- - [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD)
+ - [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD) Es una app que controla la entrada, salida de vehículos. Calcula el tiempo que ha están dentro del parking y cuando sale cuando tienen que pagar. La interfaz gráfica 
  
- - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda)
+ - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda) Es una app que controla la entrada y salida de vehículos. Calcula el tiempo que están dentro del parking y cuando sale cuando tienen que pagar. La interfaz gráfica es con JavaFX.
  
-
- [juego RPG](https://github.com/Alexdev-01/Calculadora)
- 
- [Calculadora](https://github.com/Alexdev-01/Calculadora)
- 
- [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD)
- 
- [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda)
 
  <p></p><br>
 
