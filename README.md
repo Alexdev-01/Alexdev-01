@@ -31,10 +31,13 @@
  [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD)<br>
  [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda)<br>
 
-  <p>juego RPG](https://github.com/Alexdev-01/Calculadora)</p><br>
- <p>[Calculadora](https://github.com/Alexdev-01/Calculadora)</p><br>
- <p>[Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD)</p><br>
- <p>[Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda)</p><br>
+ [juego RPG](https://github.com/Alexdev-01/Calculadora)
+ 
+ [Calculadora](https://github.com/Alexdev-01/Calculadora)
+ 
+ [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD)
+ 
+ [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda)
 
  <p></p><br>
 
