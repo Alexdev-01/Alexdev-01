@@ -27,9 +27,7 @@
  ## My Projects
 
  - [juego RPG](https://github.com/Alexdev-01/Calculadora)<br>
- 
  - [Calculadora](https://github.com/Alexdev-01/Calculadora)<br>
- 
  - [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD)<br>
  - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda)<br>
 
