@@ -1,5 +1,5 @@
 
-<img src="./imagenes/cabecera1.webp" width="2000" height="300">
+<img src="./imagenes/cabecera1.webp" width="2000" height="350">
 
 <h1><width="30"/> Bienvenido a mi profile de GitHub!!!</h1>
 
@@ -33,9 +33,9 @@
  
  - [Calculadora](https://github.com/Alexdev-01/Calculadora). Es una calculadora con interfaz gráfica.
  
- - [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD) Es una app que controla la entrada, salida de vehículos. Calcula el tiempo que ha están dentro del parking y cuando sale cuando tienen que pagar. La interfaz gráfica 
+ - [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD) Es una app que controla la entrada, salida de vehículos. Calcula el tiempo que ha están dentro del parking y cuando sale cuando tienen que pagar. Con interfaz gráfica.
  
- - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda) Es una app que controla la entrada y salida de vehículos. Calcula el tiempo que están dentro del parking y cuando sale cuando tienen que pagar. La interfaz gráfica es con JavaFX.
+ - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda) Es una app que controla la entrada y salida de vehículos. Calcula el tiempo que están dentro del parking y cuando sale cuando tienen que pagar. Con interfaz gráfica.
  
 
  <p></p><br>
