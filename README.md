@@ -1,5 +1,5 @@
 ![](./imagenes/cabecera1.webp)
-<img src="./imagenes/cabecera1.webp" width="5000" height="2000">
+<img src="./imagenes/cabecera1.webp" width="5000" height="1000">
 
 <h1><width="30"/> Bienvenido a mi profile de GitHub!!!</h1>
 
