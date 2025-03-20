@@ -1,6 +1,6 @@
 <h1><width="30"/> Bienvenido a mi profile de GitHub!!!</h1>
 
-<p>👋 !"·$,|@#~€¬!!!!!!!||!!1Hola! Soy Alejandro, me gusta la programación y las tecnologías. Siempre estoy intentado aprender cosas nuevas.</p>
+<p>👋 ¡Hola! Soy Alejandro, me gusta la programación y las tecnologías. Siempre estoy intentado aprender cosas nuevas.</p>
 <p>💻 Me especializo en Java, SQL, PL/SQL, PHP, HTML y CSS.</p>
 <p>🎯 Aquí encontrareis algunos de los proyectos que he realizado.</p>
 
