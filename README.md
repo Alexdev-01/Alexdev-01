@@ -1,5 +1,5 @@
 
-<img src="./imagenes/cabecera1.webp" width="2000" height="400">
+<img src="./imagenes/cabecera1.webp" width="2000" height="300">
 
 <h1><width="30"/> Bienvenido a mi profile de GitHub!!!</h1>
 
