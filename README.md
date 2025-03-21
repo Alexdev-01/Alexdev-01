@@ -1,6 +1,7 @@
 
 <img src="./imagenes/cabecera1.webp" width="2000" height="350">
 
+
 <h1><width="30"/> Bienvenido a mi profile de GitHub!!!</h1>
 
 <p>👋 ¡Hola! Soy Alejandro, me gusta la programación y las tecnologías. Siempre estoy intentado aprender cosas nuevas.</p>
