@@ -30,7 +30,7 @@
  ![Swing](https://img.shields.io/badge/Swing-%23575757.svg?style=for-the-badge&logo=Swing&logoColor=important)
  ![Maven](https://img.shields.io/badge/Maven-%23575757.svg?style=for-the-badge&logo=Maven&logoColor=important)
  ![JUnit](https://img.shields.io/badge/JUnit-%23575757.svg?style=for-the-badge&logo=JUnit&logoColor=important)
- ![Github](https://img.shields.io/badge/Github-%23575757.svg?style=for-the-badge&logo=Github&logoColor=important)
+ ![Github](https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=Github&logoColor=important)
 
 
 
