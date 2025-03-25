@@ -27,9 +27,8 @@
  ![SceneBuilder](https://img.shields.io/badge/SceneBuilder-FE7A16.svg?style=for-the-badge&logo=SceneBuilder&logoColor=white)
  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
  ![Maven](https://img.shields.io/badge/Maven-000000.svg?style=for-the-badge&logo=Maven&logoColor=important)
- ![Swing](https://img.shields.io/badge/Swing-%23575757.svg?style=for-the-badge&logo=Swing&logoColor=important)
- ![Maven](https://img.shields.io/badge/Maven-%23575757.svg?style=for-the-badge&logo=Maven&logoColor=important)
- ![JUnit](https://img.shields.io/badge/JUnit-%23575757.svg?style=for-the-badge&logo=JUnit&logoColor=important)
+ ![Swing](https://img.shields.io/badge/Swing-3BEAF8.svg?style=for-the-badge&logo=Swing&logoColor=important)
+ ![JUnit](https://img.shields.io/badge/JUnit-4bff5c.svg?style=for-the-badge&logo=JUnit&logoColor=important)
  ![Github](https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=Github&logoColor=important)
 
 
