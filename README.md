@@ -33,7 +33,6 @@
  ![Github](https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=Github&logoColor=important)
 
 
-
 <p></p><br>
 
  ## My Projects
@@ -46,14 +45,12 @@
  
  - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda) Es una app que controla la entrada y salida de vehículos. Calcula el tiempo que están dentro del parking y cuando sale cuando tienen que pagar. Con interfaz gráfica.
 
-  - [API REST Gestion de Tareas](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas). API REST básica desarrollada con Spring Boot para la gestión de tareas, implementando operaciones CRUD simples y persistencia con JPA y MySQL. Proyecto orientado a aprender los fundamentos de una API REST. 
+  - [API REST Gestion de Tareas](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas). API REST básica con Spring Boot para gestionar tareas mediante operaciones CRUD.
 
-  - [API REST Gestion de Tareas Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). DTOs. Arquitectura limpia. Validaciones. Errores controlados. CRUD completo.
+  - [API REST Gestion de Tareas Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). API REST con Spring Boot aplicada con arquitectura en capas, DTOs y validaciones.
     
-  - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API RESTful desarrollada con Spring Boot para la gestión de tareas (To-Do List) con enfoque profesional. Implementa arquitectura en capas, DTOs, validaciones con Bean Validation, manejo global de errores, paginación y documentación con Swagger/OpenAPI. Proyecto orientado a portfolio backend y aplicaciones frontend-ready.
+  - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API REST avanzada con Spring Boot, manejo global de errores, paginación y Swagger.
 
-
- 
 
  <p></p><br>
 
