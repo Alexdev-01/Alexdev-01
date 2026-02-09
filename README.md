@@ -4,8 +4,8 @@
 
 <h1><width="30"/> Bienvenido a mi profile de GitHub!!!</h1>
 
-<p>👋 ¡Hola! Soy Alejandro, me gusta la programación y las tecnologías. Siempre estoy intentado aprender cosas nuevas.</p>
-<p>💻 Me especializo en Java, SQL, PL/SQL, PHP, HTML, CSS y JavaScript.</p>
+<p>👋 ¡Hola! Soy Alejandro, me fascina la programación y las tecnologías. Siempre estoy intentado aprender cosas nuevas.</p>
+<p>💻 Me especializo en Java, Spring Boot (MVC, Data JPA, REST, Security, Hibernate y Batch), AJAX, SQL, PL/SQL, PHP, HTML, CSS y JavaScript.</p>
 <p>🎯 Aquí encontrareis algunos de los proyectos que he realizado.</p>
 
 
