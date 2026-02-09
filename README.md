@@ -47,7 +47,7 @@
 
   - [API REST Gestion de Tareas](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas). API REST básica con Spring Boot para gestionar tareas mediante operaciones CRUD.
 
-  - [API REST Gestion de Tareas Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). API REST con Spring Boot aplicada con arquitectura en capas, DTOs y validaciones.
+  - [API REST Gestion de Tareas Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). API REST profesional con Spring Boot aplicada con arquitectura en capas, DTOs y validaciones.
     
   - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API REST avanzada con Spring Boot, manejo global de errores, paginación y Swagger.
 
