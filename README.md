@@ -46,11 +46,11 @@
  
  - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda) Es una app que controla la entrada y salida de vehículos. Calcula el tiempo que están dentro del parking y cuando sale cuando tienen que pagar. Con interfaz gráfica.
 
-  - [API_REST_Gestion_de_Tareas](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas). Es una calculadora con interfaz gráfica.
+  - [API REST Gestion de Tareas](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas). API REST básica desarrollada con Spring Boot para la gestión de tareas, implementando operaciones CRUD simples y persistencia con JPA y MySQL. Proyecto orientado a aprender los fundamentos de una API REST. 
 
-  - [API_REST_Gestion_de_Tareas_Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). Es una calculadora con interfaz gráfica.
+  - [API REST Gestion de Tareas Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). DTOs. Arquitectura limpia. Validaciones. Errores controlados. CRUD completo.
     
-  - [API_REST_Gestion_de_Tareas_Pro_Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API RESTful desarrollada con Spring Boot para la gestión de tareas (To-Do List) con enfoque profesional. Implementa arquitectura en capas, DTOs, validaciones con Bean Validation, manejo global de errores, paginación y documentación con Swagger/OpenAPI. Proyecto orientado a portfolio backend y aplicaciones frontend-ready.
+  - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API RESTful desarrollada con Spring Boot para la gestión de tareas (To-Do List) con enfoque profesional. Implementa arquitectura en capas, DTOs, validaciones con Bean Validation, manejo global de errores, paginación y documentación con Swagger/OpenAPI. Proyecto orientado a portfolio backend y aplicaciones frontend-ready.
 
 
  
