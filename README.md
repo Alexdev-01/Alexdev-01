@@ -51,6 +51,9 @@
     
   - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API REST avanzada con Spring Boot, manejo global de errores, paginación y Swagger.
 
+  - [API_Gestion_Productos_Y_Pedidos](https://github.com/Alexdev-01/API_Gestion_Productos_Y_Pedidos). API REST para e-commerce desarrollada con Spring Boot, que gestiona usuarios, productos, categorías y pedidos, con seguridad JWT, control de stock y arquitectura en capas.
+  
+
 
  <p></p><br>
 
