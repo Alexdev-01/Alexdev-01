@@ -37,19 +37,27 @@
 
  ## My Projects
 
+  - [API_Gestion_Productos_Y_Pedidos](https://github.com/Alexdev-01/API_Gestion_Productos_Y_Pedidos). API REST para e-commerce desarrollada con Spring Boot, que gestiona usuarios, productos, categorías y pedidos, con seguridad JWT, control de stock y arquitectura en capas.
+
+  - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API REST avanzada con Spring Boot, manejo global de errores, paginación y Swagger.
+
+  - [API REST Gestion de Tareas Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). API REST profesional con Spring Boot aplicada con arquitectura en capas, DTOs y validaciones.
+
+  - [API REST Gestion de Tareas](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas). API REST básica con Spring Boot para gestionar tareas mediante operaciones CRUD.
+
  - [juego RPG](https://github.com/Alexdev-01/Juego_RPG). Es un juego RPG que se enfrentan dos ejercito por turnos, con interfaz gráfica.
  
  - [Parking con BBDD](https://github.com/Alexdev-01/Parking_BBDD). Es una app que controla la entrada, salida de vehículos. Calcula el tiempo que ha están dentro del parking y cuando sale cuando tienen que pagar. Con interfaz gráfica.
  
  - [Stock Tienda](https://github.com/Alexdev-01/Stock_Tienda). Es una app que controla la entrada y salida de vehículos. Calcula el tiempo que están dentro del parking y cuando sale cuando tienen que pagar. Con interfaz gráfica.
 
-  - [API REST Gestion de Tareas](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas). API REST básica con Spring Boot para gestionar tareas mediante operaciones CRUD.
 
-  - [API REST Gestion de Tareas Pro](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro). API REST profesional con Spring Boot aplicada con arquitectura en capas, DTOs y validaciones.
+
+
     
-  - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API REST avanzada con Spring Boot, manejo global de errores, paginación y Swagger.
+  
 
-  - [API_Gestion_Productos_Y_Pedidos](https://github.com/Alexdev-01/API_Gestion_Productos_Y_Pedidos). API REST para e-commerce desarrollada con Spring Boot, que gestiona usuarios, productos, categorías y pedidos, con seguridad JWT, control de stock y arquitectura en capas.
+
   
 
 
