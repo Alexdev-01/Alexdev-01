@@ -37,7 +37,7 @@
 
  ## My Projects
 
-  - [API E-commerce Pro](https://github.com/Alexdev-01/API-E-commerce_Pro). API avanzada de gestión de productos y pedidos desarrollada con Spring Boot, que amplía las funcionalidades base incorporando autenticación y autorización con JWT, gestión de usuarios y roles, control de stock en tiempo real, procesamiento de pedidos optimizado, integración con pasarelas de pago y arquitectura en capas escalable, orientada a entornos de producción.
+  - [API E-commerce Pro](https://github.com/Alexdev-01/API-E-commerce_Pro). API profesional con Spring Boot para gestión de productos y pedidos, con JWT, control de stock, roles y arquitectura escalable.
 
   - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API REST avanzada con Spring Boot, manejo global de errores, paginación y Swagger.
 
