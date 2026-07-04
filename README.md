@@ -6,7 +6,7 @@
 
 <p>👋 ¡Hola! Soy Alejandro, me fascina la programación y las tecnologías. Siempre estoy intentado aprender cosas nuevas.</p>
 <p>💻 Me especializo en Java, Spring Boot (MVC, Data JPA, REST, Security, Hibernate y Batch), AJAX, SQL, PL/SQL, PHP, HTML, CSS y JavaScript.
-Docker, JUnit 5, Mockito y Desarrollo asistido con IA mediante GitHub Copilot </p>
+Docker, JUnit 5, Mockito y Desarrollo asistido con IA mediante GitHub Copilot.</p>
 <p>🎯 Aquí encontrareis algunos de los proyectos que he realizado.</p>
 
 
