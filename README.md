@@ -38,7 +38,7 @@ Docker, JUnit 5, Mockito y Desarrollo asistido con IA mediante GitHub Copilot.</
 
  ## My Projects
 
-  - [API E-commerce Pro](https://github.com/Alexdev-01/API-E-commerce_Pro_Avanzado_con_Test). API REST de e-commerce con Spring Boot que implementa autenticación JWT, gestión de productos, categorías y pedidos, control por roles (ADMIN/CLIENTE) y testing completo con JUnit, Mockito y MockMvc.
+  - [API-E-commerce_Pro_Avanzado_con_Test](https://github.com/Alexdev-01/API-E-commerce_Pro_Avanzado_con_Test). API REST de e-commerce con Spring Boot que implementa autenticación JWT, gestión de productos, categorías y pedidos, control por roles (ADMIN/CLIENTE) y testing completo con JUnit, Mockito y MockMvc.
 
   - [API REST Gestion de Tareas Pro Avanzado](https://github.com/Alexdev-01/API_REST_Gestion_de_Tareas_Pro_Avanzado). API REST avanzada con Spring Boot, manejo global de errores, paginación y Swagger.
 
